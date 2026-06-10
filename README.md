@@ -1,8 +1,8 @@
-# 📝 Django Todo List
+#  Django Todo List
 
 A simple Todo List web application built with Django that allows users to create, update, complete, and delete tasks.
 
-## 🚀 Features
+##  Features
 
 - Add new tasks
 - Mark tasks as completed
@@ -11,7 +11,7 @@ A simple Todo List web application built with Django that allows users to create
 - View all tasks in one place
 - Clean and responsive user interface
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Django
@@ -19,7 +19,7 @@ A simple Todo List web application built with Django that allows users to create
 - CSS
 - SQLite (Default Django Database)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 todo_project/
@@ -42,7 +42,7 @@ todo_project/
 └── db.sqlite3
 ```
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -95,11 +95,11 @@ Visit:
 http://127.0.0.1:8000/
 ```
 
-## 📸 Screenshots
+##  Screenshots
 
 Add screenshots of your application here.
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - User Authentication
 - Task Categories
@@ -108,10 +108,10 @@ Add screenshots of your application here.
 - Dark Mode
 - REST API Integration
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome. Feel free to fork the repository and submit a pull request.
 
-## 📄 License
+##  License
 
 This project is open-source and available under the MIT License.
