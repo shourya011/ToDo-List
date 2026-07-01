@@ -95,10 +95,6 @@ Visit:
 http://127.0.0.1:8000/
 ```
 
-##  Screenshots
-
-Add screenshots of your application here.
-
 ##  Future Improvements
 
 - User Authentication
@@ -108,12 +104,10 @@ Add screenshots of your application here.
 - Dark Mode
 - REST API Integration
 
-##  Contributing
-
-Contributions are welcome. Feel free to fork the repository and submit a pull request.
-
 ##  License
 
 This project is open-source and available under the MIT License.
+
+It is not for contributions so dont contri
 
 Learning GitHub badges
